@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/anupama-pt/static/css/main.569c2a53.chunk.css",
+    "main.js": "/anupama-pt/static/js/main.c03cf239.chunk.js",
+    "main.js.map": "/anupama-pt/static/js/main.c03cf239.chunk.js.map",
+    "runtime-main.js": "/anupama-pt/static/js/runtime-main.5d8aeeb7.js",
+    "runtime-main.js.map": "/anupama-pt/static/js/runtime-main.5d8aeeb7.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/anupama-pt/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.8063d0ed.chunk.js": "/anupama-pt/static/js/2.8063d0ed.chunk.js",
+    "static/js/2.8063d0ed.chunk.js.map": "/anupama-pt/static/js/2.8063d0ed.chunk.js.map",
+    "static/js/3.83f10f87.chunk.js": "/anupama-pt/static/js/3.83f10f87.chunk.js",
+    "static/js/3.83f10f87.chunk.js.map": "/anupama-pt/static/js/3.83f10f87.chunk.js.map",
+    "index.html": "/anupama-pt/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/anupama-pt/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.569c2a53.chunk.css.map": "/anupama-pt/static/css/main.569c2a53.chunk.css.map",
+    "static/js/2.8063d0ed.chunk.js.LICENSE.txt": "/anupama-pt/static/js/2.8063d0ed.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/anupama-pt/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/anupama-pt/static/media/avatar.5852f40f.svg",
+    "static/media/style.css": "/anupama-pt/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/anupama-pt/static/media/home-main.541f8179.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d8aeeb7.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.8063d0ed.chunk.js",
+    "static/css/main.569c2a53.chunk.css",
+    "static/js/main.c03cf239.chunk.js"
+  ]
+}
